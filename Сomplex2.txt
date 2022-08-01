@@ -1,0 +1,27 @@
+Ваня получил все даты, но долго не мог догадаться что с ними делать. Однако ему не давала покоя фотография телескопа Hubble буквами DM на обложке блокнота.
+Дедушка любил космос и часто рассматривал снимки, полученные этим телескопом. Интересная мысль осенила разум Вани: "Может d - это Day, а M - Month? У NASA есть сборник лучших снимков каждого дня
+в году и описание к ним. Нужно попробовать прогнать все даты и получить описание с картинок, снятых в этот день. Может быть это поможет расследованию?"
+Ваня нашел официальный Excel-документ с датами, снимками и описанием. (https://storage.cloudconvert.com/tasks/f9e2790c-e211-4037-922b-f14b7571eee6/hubble-birthdays-full-year.csv?AWSAccessKeyId=cloudconvert-production&Expires=1659456299&Signature=1QVq0FUJCjYgDFkgwQa2agJzSSE%3D&response-content-disposition=attachment%3B%20filename%3D%22hubble-birthdays-full-year.csv%22&response-content-type=text%2Fcsv).
+Помогите Ване написать программу которая по дате выводит название фотоснимка, год получения снимка, его описание и ссылку на изображение.
+
+Входные данные:
+
+<Day> <Month>
+
+Выходные данные:
+
+<Name>
+<Year>
+<Caption>
+<URL>
+
+Пример входных данных:
+
+21 Dec
+
+Пример выходных данных:
+
+Hubble Deep Field
+1995
+Called the Hubble Deep Field, this image captures several hundred galaxies that had never been seen before. Some galaxies are near and some are very far. Their various shapes and colors provide clues about the evolution of the universe.
+https://hubblesite.org/contents/media/images/1996/01/385-Image.html

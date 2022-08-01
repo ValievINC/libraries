@@ -1,0 +1,47 @@
+Вход:
+
+21 Dec
+
+
+Выход:
+
+Hubble Deep Field
+1995
+Called the Hubble Deep Field, this image captures several hundred galaxies that had never been seen before. Some galaxies are near and some are very far. Their various shapes and colors provide clues about the evolution of the universe.
+https://hubblesite.org/contents/media/images/1996/01/385-Image.html
+
+Вход:
+
+1 Jan
+
+
+Выход:
+
+Galaxy Leo IV
+2012
+Leo IV is one of more than a dozen ultra-faint dwarf galaxies near the Milky Way. These galaxies are dominated by dark matter, an invisible substance that makes up most of the universe's mass.
+https://hubblesite.org/contents/media/images/2012/26/3054-Image.html
+
+Вход:
+
+5 May
+
+
+Выход:
+
+Galactic Center
+2008
+This infrared image of the center of our Milky Way galaxy reveals a population of massive stars and complex structures in the hot ionized gas that swirls around the galactic core.
+https://hubblesite.org/contents/media/images/2009/02/2453-Image.html
+
+Вход:
+
+29 Feb
+
+
+Выход:
+
+SWEEPS Star Field 
+2004
+Hubble peered into the crowded central bulge of our galaxy 26,000 light-years away and collected information for 180,000 stars as part of a survey called the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS).
+https://hubblesite.org/contents/news-releases/2011/news-2011-16.html
